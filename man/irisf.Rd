@@ -36,7 +36,7 @@ New York: Springer}
   the species as the fifth column rather than the first}
 
 \examples{
-data(iris)
+data(irisf)
 \dontrun{
 pairs(irisf[,-1])}
 
