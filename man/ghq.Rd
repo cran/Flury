@@ -32,7 +32,7 @@
 }
 \references{
   Flury, B.D. (1997) \emph{A First Course in Multivariate Statistics},
-   New York: Springer}
+   New York: Springer
 }
 \examples{
 data(ghq)

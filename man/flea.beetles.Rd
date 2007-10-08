@@ -37,5 +37,5 @@ data(flea.beetles)
   col = unclass(flea.beetles[,1]))},
   main = "Pairwise scatter plots for Lubischew's Flea Beetle data")
 }}
-}
+
 \keyword{datasets}
